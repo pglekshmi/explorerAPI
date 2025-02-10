@@ -97,6 +97,7 @@ gethRoute.get("/contractCreated",async(req,res)=>{
         // transArray.push(data1.transactions)
         
     }
+    apiRoute
 
     
 
